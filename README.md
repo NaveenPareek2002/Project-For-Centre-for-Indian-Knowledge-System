@@ -1,0 +1,2 @@
+# Project-For-Centre-for-Indian-Knowledge-System
+This project, conducted under the Center for Indian Knowledge Systems (CIKS) at IIT Guwahati, delves into the remarkable technological insights embedded within ancient Indian temples. By analyzing historical figures, idols, and architectural features, this project highlights how temples served not only as places of worship but also as knowledge repositories and centers of learning.
